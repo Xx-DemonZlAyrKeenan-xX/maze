@@ -22,7 +22,7 @@ body {
     width: 500px; 
     height: 120px; 
     font-size: 100px; 
-    background: lightgray; 
+    background: black; 
     text-align: center; 
     opacity: 0.9;
 }
@@ -43,5 +43,5 @@ body {
 }
 
 .W {
-    background: #00356b;
+    background: orangered;
 }
