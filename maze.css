@@ -10,7 +10,7 @@ body {
     position: absolute; 
     width: 33px; 
     height: 33px; 
-    background: url('chok.png'); 
+    background: url('Boxman.png'); 
     background-size: contain; 
     transition: all 0.1s;
 }
